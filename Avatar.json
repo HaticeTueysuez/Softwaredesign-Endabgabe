@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Hatice",
+        "health": 3,
+        "inventory": [],
+        "currentRoom": 0
+    },
+    
+    {
+        "name": "Dr.Scalp",
+        "health": 3,
+        "inventory": ["Geheimschlüssel"],
+        "currentRoom": 2
+    }
+
+]
